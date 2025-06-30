@@ -1,0 +1,6 @@
+D:\C#\SIS07Ativ03C#\Lista 03\p8\bin\Debug\08.exe.config
+D:\C#\SIS07Ativ03C#\Lista 03\p8\bin\Debug\08.exe
+D:\C#\SIS07Ativ03C#\Lista 03\p8\bin\Debug\08.pdb
+D:\C#\SIS07Ativ03C#\Lista 03\p8\obj\Debug\08.csprojResolveAssemblyReference.cache
+D:\C#\SIS07Ativ03C#\Lista 03\p8\obj\Debug\08.exe
+D:\C#\SIS07Ativ03C#\Lista 03\p8\obj\Debug\08.pdb
